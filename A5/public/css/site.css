@@ -1,0 +1,12 @@
+.container{
+    margin: auto;
+    width: 85%;
+    background-color:lightpink;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.container-fluid{
+    background-color: lightgray;
+    font-weight: bold;
+}
+
